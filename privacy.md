@@ -200,8 +200,8 @@ Cookieとは、ウェブサーバがお客様のコンピュータを識別す�
 
 ## 施行・改定情報
 
-- 2020年10月10日 制定
-- 2021年09月01日 改定 全体整備
+- [2020年10月10日](https://github.com/we-are-ma/protopedia-terms/blob/2020%E5%B9%B410%E6%9C%8810%E6%97%A5_%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E5%88%B6%E5%AE%9A/privacy.md) 制定
+- [2021年09月01日](https://github.com/we-are-ma/protopedia-terms/blob/2021%E5%B9%B409%E6%9C%8801%E6%97%A5_%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E6%94%B9%E5%AE%9A/privacy.md) 改定 全体整備
 - 2022年03月31日 改定 全体整備
 
 *1：[PtotoPedia](https://protopedia.net/)とは、ITものづくりに関する作品を記録・公開できるWEBサービスです。
