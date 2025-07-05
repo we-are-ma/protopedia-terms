@@ -146,7 +146,8 @@
 ## 第13条（個人情報）
 
 当法人は、ユーザーの個人情報を別途オンライン上に掲示する「プライバシーポリシー（https://we-are-ma.jp/privacy-policy/）」に基づき、適切に取り扱うものとします。
-なお、Google AdSenseによる広告配信におけるCookieの使用等については、プライバシーポリシーをご確認ください。ユーザーは、Google広告設定ページ（https://www.google.com/settings/ads）でパーソナライズ広告を無効にすることができます。
+
+なお、Google AdSenseによる広告配信におけるCookieの使用等については、プライバシーポリシーをご確認ください。ユーザーは、Google広告設定ページ（ https://www.google.com/settings/ads ）でパーソナライズ広告を無効にすることができます。
 
 
 ## 第14条（準拠法および管轄裁判所）
