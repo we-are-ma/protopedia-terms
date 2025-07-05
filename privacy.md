@@ -223,4 +223,4 @@ Google AdSenseに関する詳細は、以下をご参照ください：
 - 第四版 2025年07月05日 改定
 
 
-*1：[PtotoPedia](https://protopedia.net/)とは、ITものづくりに関する作品を記録・公開できるWEBサービスです。
+*1：[ProtoPedia](https://protopedia.net/)とは、ITものづくりに関する作品を記録・公開できるWEBサービスです。
